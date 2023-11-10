@@ -1,37 +1,44 @@
 # form-CadEcommerce
+ Criamos um formulario de E-commerce na aula de Desenvolvimento de Web  
 
+# ✮ Sites Ultilizados 
+    - Git Hub
+    - Visual Studio Code
+    - HTML5
+    - CSS3
 
-# Sites Ultilizados 
+## 𖧷 Primeiro site ultilizado: KABOM
 
-## Primeiro site ultilizado: KABOM
+    - Nome completo
+    - CPF
+    - Data de nascimento*
+    - Telefone celular*
+    - E-mail
+    - Crie sua senha*
+    - Confirme sua senha
+    - Quero receber ofertas e novidades por e-mail, SMS, WhatsApp ou mensagens nos App's KaBuM!
 
--Nome completo
--CPF
--Data de nascimento*
--Telefone celular*
--E-mail
--Crie sua senha*
--Confirme sua senha
--Quero receber ofertas e novidades por e-mail, SMS, WhatsApp ou mensagens nos App's KaBuM!
+## ✺ Segundo site ultilizado: STUDIO Z
 
-## Segundo site ultilizado: STUDIO Z
+    - Nome
+    - Sobrenome
+    - E-mail
+    - Nascimento
+    - CPF
+    - Celular
+    - Selecione:Sexo
+    - Senha
+    - Repita a Senha
 
--Nome
+## 𖠄 Terceiro site ultilizado: AMERICANAS
 
--Sobrenome
+    - nome completo
+    - gênero: feminino / masculino / não informar*
+    -data de nascimento
+    - CPF
+    - telefone
+    - e-mail
+    - receber e-mails promocionais
+    - senha
 
--E-mail
-
--Nascimento
-
--CPF
-
-Celular
-Informe um telefone celular válido.Celular*
-
-Selecione
-Sexo
-Senha
-
-Repita a Senha
 
