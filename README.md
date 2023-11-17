@@ -1,5 +1,5 @@
 # form-CadEcommerce
- É um site de e-commerce desenvolvido para oferecer uma experiência de compra online fácil. Criamos na aula de Desenvolvimento de Web 
+ É um site de e-commerce desenvolvido para oferecer uma experiência de compra online fácil, usamos como exemplos de cadastro alguns sites de E-commerce que estão listados a baixo
 
 
 ![Formulario de cadastro e mais 1 página - Pessoal — Microsoft_ Edge 2023-11-17 15-48-30](https://github.com/juliadutraves/-form-CadEcommerce/assets/140835384/50f3d9a8-8d2f-464f-b9c7-699af5c2f75b)
