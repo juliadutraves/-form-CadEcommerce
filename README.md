@@ -1,6 +1,9 @@
 # form-CadEcommerce
  Criamos um formulario de E-commerce na aula de Desenvolvimento de Web 
 
+![Formulario de cadastro e mais 1 página - Pessoal — Microsoft_ Edge 2023-11-17 15-48-30](https://github.com/juliadutraves/-form-CadEcommerce/assets/140835384/50f3d9a8-8d2f-464f-b9c7-699af5c2f75b)
+
+
 # ✮ Sites Ultilizados 
     - Git Hub
     - Visual Studio Code
