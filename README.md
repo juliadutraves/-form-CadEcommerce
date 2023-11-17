@@ -1,5 +1,5 @@
 # form-CadEcommerce
- Criamos um formulario de E-commerce na aula de Desenvolvimento de Web  
+ Criamos um formulario de E-commerce na aula de Desenvolvimento de Web 
 
 # ✮ Sites Ultilizados 
     - Git Hub
